@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="FinalBetaFirmware">
+<ExpandedNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Pins</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Analog</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\DMA</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Clocks</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Interrupts</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\System</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Directives</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Header Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Header Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Shared Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Shared Files\cyapicallbacks.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Shared Files\stdio_user.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Shared Files\stdio_user.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Shared Files\system_psoc6.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\clcd</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\clcd\clcd.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\clcd\clcd.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\func_list.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\func_list.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\tty_utils.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\sources\tty_utils.h</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Generated_Source</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Generated_Source\PSoC6</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Pins</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Analog</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\DMA</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Clocks</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Interrupts</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\System</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.cydwr\Directives</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Header Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM MDK Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Header Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\func_list.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\tty_utils.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.elf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.hex</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.map</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\func_list.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\tty_utils.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.elf</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.hex</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM4\ARM_GCC_541\Debug\FinalBetaFirmware_3_20.map</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.gpdsc</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20.rpt</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\FinalBetaFirmware_3_20_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\func_list.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\PSoC 6 Architecture TRM</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\PSoC 63 Family Datasheet</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Peripheral Driver Library</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FinalBetaFirmware</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\PSoC 6 Architecture TRM</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\PSoC 63 Family Datasheet</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\Peripheral Driver Library</v>
+<v>FinalBetaFirmware\FinalBetaFirmware_3_20\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v="..\FinalBetaFirmware_3_20.cydsn\main_cm4.c" />
+<name v="..\FinalBetaFirmware_3_20.cydsn\TopDesign\TopDesign.cysch" />
+<name v="..\FinalBetaFirmware_3_20.cydsn\FinalBetaFirmware_3_20.cydwr" />
+<name v="..\FinalBetaFirmware_3_20.cydsn\Generated_Source\PSoC6\SensorBus.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1369, 592" SelectedTabbedMdiWindow="51e86c11-dde2-4ce2-9d50-54a783df2c9e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="8e0dd34a-31b6-4c5c-ab47-4338a97df9fd" /><DocumentWindow Key="C:\Users\maxwe\Downloads\bettafirmware (1)\bettafirmware\FinalBetaFirmware_3_20.cydsn\main_cm4.c" Guid="b72622b1-2238-4d95-acd5-3f5874f61451" /><DocumentWindow Key="C:\Users\maxwe\Downloads\bettafirmware (1)\bettafirmware\FinalBetaFirmware_3_20.cydsn\TopDesign\TopDesign.cysch" Guid="c8d4a518-2daa-4252-80f9-b4fc80cecd3b" /><DocumentWindow Key="C:\Users\maxwe\Downloads\bettafirmware (1)\bettafirmware\FinalBetaFirmware_3_20.cydsn\FinalBetaFirmware_3_20.cydwr" Guid="24f8f07b-f1c5-42ea-a539-de7eafea8210" /><DocumentWindow Key="C:\Users\maxwe\Downloads\bettafirmware (1)\bettafirmware\FinalBetaFirmware_3_20.cydsn\Generated_Source\PSoC6\SensorBus.h" Guid="51e86c11-dde2-4ce2-9d50-54a783df2c9e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

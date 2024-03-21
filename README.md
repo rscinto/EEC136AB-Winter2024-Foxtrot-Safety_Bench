@@ -4,9 +4,10 @@ The test bench of the future, TODAY!
 
 Final Assembly            |  CAD Planning
 :-------------------------:|:-------------------------:
-<img src="done.jpg" width="250" />  |  <img src="proto.png" width="250" />
+<img src="done.jpg" width="350" />  |  <img src="proto.png" width="350" />
 
 
-![alt text](pcb.png)
+
+ <img src="pcb.png" width="700" />
 
 
